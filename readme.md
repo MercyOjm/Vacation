@@ -1,6 +1,6 @@
 # Ojiemudia Mercy
 
-[Profile photo](image/9175sw-web.JPG)
+![Profile photo](image/9175sw-web.JPG)
 
 #### Email: mercyojiemudia3@gmail.com
 [Linkedin Profile](https://www.linkedin.com/in/mercy-ojiemudia-034656197/)
@@ -21,6 +21,10 @@
 * Goal-oriented
 * Adapt to technologylsrm
 * Interpersonal Skills
+
+## Languages 
+* English – Native
+* German – B2
 
 ## Interests 
 * Traveling 
