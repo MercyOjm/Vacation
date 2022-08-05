@@ -40,11 +40,11 @@
                  University of Benin
 
 ## Skills
-[* ] Terminal
-[* ] Git/Github
-[ * ] HTML
-[ * ] CSS
-[ * ] Microsoft Office
+- [*] Terminal
+- [*] Git/Github
+- [*] HTML
+- [*] CSS
+- [*] Microsoft Office
 
 ## Softskills
 * Networking 
