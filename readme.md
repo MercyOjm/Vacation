@@ -4,7 +4,7 @@
 
 ![Profile photo](image/9175sw-web.JPG)
 
-# Personal Information
+## Personal Information
 * Telephone: +491783668533
 * Address: Munich, Bayern
 * Email: mercyojiemudia3@gmail.com
@@ -40,18 +40,18 @@
                  University of Benin
 
 ## Skills
-- [*] Terminal
-- [*] Git/Github
-- [*] HTML
-- [*] CSS
-- [*] Microsoft Office
+- [x] ,  Terminal
+- [x] ,  Git/Github
+- [x] ,  HTML
+- [x] ,  CSS
+- [x] ,  Microsoft Office
 
 ## Softskills
 * Networking 
 * Team-oriented
 * ExcExcellent verbal and written communication skills
 * Goal-oriented
-* Adapt to technologylsrm
+* Adapt to new technology
 * Interpersonal Skills
 
 ## Languages 
